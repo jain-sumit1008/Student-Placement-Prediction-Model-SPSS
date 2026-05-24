@@ -176,7 +176,7 @@ Special thanks to our faculty Mr. Abhishek Singh for helping us complete and sub
 # 🔗 GitHub Repository
 
 ```bash
-https://github.com/your-username/student-placement-prediction
+https://github.com/jain-sumit1008/Student-Placement-Prediction-Model-SPSS
 ```
 
 ---
